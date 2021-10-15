@@ -184,7 +184,7 @@ In the event of termination of the contract, the work results shall remain in th
 ***JOB TITLE***  
 ***COMPANY NAME***
 
-#### Attachments:
+**Attachments:**
 - Obligation to data secrecy
 - Obligation to protect digital data
 ---
