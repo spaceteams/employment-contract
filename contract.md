@@ -15,7 +15,7 @@ and
 
 
 
-We look forward to long and productive cooperation with you.  
+We look forward to a long and productive cooperation with you.  
 We expect from you the willingness to work constructively together on the basis of mutual respect and trust.  
 \- Welcome ! -
 
