@@ -91,7 +91,7 @@ This applies regardless of which work equipment is used to achieve the work resu
 If there is any uncertainty as to whether this paragraph applies, please consult your supervisor.
 
 (4) **Transfer of rights to the Employer**  
-You irrevocably transfer to the Employer all rights of use and exploitation of all work results in accordance with paragraphs 1,2 and 3, exclusively, without limitation as to time, content and territory, including the unrestricted, consent-free right to modify and alter the work results as well as the right to reproduce, pass on and otherwise exploit the right of use, and grant in favour of the Employer its corresponding consent in accordance with § 34 and § 35 UrhG (German Copyright Act).
+You irrevocably transfer to the Employer all rights of use and exploitation of all work results in accordance with paragraphs 1, 2 and 3, exclusively, without limitation as to time, content and territory, including the unrestricted, consent-free right to modify and alter the work results as well as the right to reproduce, pass on and otherwise exploit the right of use, and grant in favour of the Employer its corresponding consent in accordance with § 34 and § 35 UrhG (German Copyright Act).
 
 The transfer of rights refers to all rights of use and exploitation for all known and unknown types of use.
 
@@ -103,7 +103,7 @@ If work results that were created before you were hired are incorporated into th
 The Employer shall be entitled, without obtaining further consent from you, to transfer all rights to which it is entitled under paragraph (4), in whole or in part, to third parties or to allow such third parties to exercise them.
 
 (6) **Settlement**  
-The transfer to the Employer of the rights to the work results in accordance with paragraphs 1,2 and 3 of the Employee's employment contract, as regulated in this clause, shall be compensated by the Employee's remuneration under the employment contract. This remuneration also includes successes in use and any exploitation proceeds from sales and/or licensing agreements with third parties. This applies regardless of whether a work result was created within or outside the activity. The regulations in §§ 32, 32a and 32c UrhG remain unaffected. You also waive your right to acknowledgement of authorship (§ 13 UrhG).
+The transfer to the Employer of the rights to the work results in accordance with paragraphs 1, 2 and 3 of the Employee's employment contract, as regulated in this clause, shall be compensated by the Employee's remuneration under the employment contract. This remuneration also includes successes in use and any exploitation proceeds from sales and/or licensing agreements with third parties. This applies regardless of whether a work result was created within or outside the activity. The regulations in §§ 32, 32a and 32c UrhG remain unaffected. You also waive your right to acknowledgement of authorship (§ 13 UrhG).
 
 (7) **Contract termination**  
 In the event of termination of the contract, the work results shall remain in the hands of the Employer, irrespective of the circumstances of termination, for further use and exploitation for an indefinite period of time, exclusively and without any restriction in terms of content. A right of access and/or surrender regarding such work results in favour of the Employee is expressly excluded. The Employee shall not be entitled to access and/or surrender of an author's copy.
@@ -133,7 +133,7 @@ In the event of termination of the contract, the work results shall remain in th
 
 (5) There is no right of retention in respect of the aforementioned documents.
 
-## § 11 Gifts and benefits 
+## § 11 Gifts and benefits
 (1) You may not accept gifts or benefits of any kind from suppliers, customers or other business partners.
 
 (2) If anyone attempts to provide you with any of the above services or otherwise influence your decision, you must notify us immediately and without being asked to do so.
@@ -156,7 +156,6 @@ In the event of termination of the contract, the work results shall remain in th
 
 ## § 14 Special post-contractual rights and obligations
 (1) You will train an employee as your successor within the framework of your contractual work obligations. Particular costs arising from this will be reimbursed according to agreement and individual proof.
-
 
 (2) Insofar as you are in possession of source codes, licence keys or access data for a programme or licences provided for use, you shall surrender these in good time before termination of the employment relationship to the company.
 
@@ -190,6 +189,3 @@ In the event of termination of the contract, the work results shall remain in th
 ---
 **Note:**  
 **Employers and Employees will receive a digital copy of the contract with two signatures.**
-
-
-

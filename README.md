@@ -16,7 +16,7 @@ that every clause is as reasonable and within the current german laws as possibl
 Disclaimer: This template is provided “as is”, without any warranty of any kind.
 Check with a lawyer, if you want to use the contract as is or adjust it for your own needs.
 
-## Focus on open source [§ 7 (3)](contract.md#-7-work-results-and-transfer-of-rights)
+## Focus on open source [§ 7 (3)](contract-en.md#-7-work-results-and-transfer-of-rights)
 
 Naturally, we use several tools and libraries that the open source community is developing.  
 So we encourage our employees to be active in that community as well even during working hours.
