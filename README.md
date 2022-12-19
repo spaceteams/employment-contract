@@ -2,7 +2,7 @@
 
 [![Developed at Spaceteams](https://raw.githubusercontent.com/spaceteams/badges/main/developed-at-spaceteams.svg)](https://spaceteams.de)
 
-This is the contract that we are currently using at Spaceteams in German and English.
+This is the contract that we are currently using at Spaceteams in [German](contract-de.md) and [English](contract-en.md).
 
 We strive for a fair and transparent work environment.
 To encourage other software companies to do the same, we provide this template for your own usage.
