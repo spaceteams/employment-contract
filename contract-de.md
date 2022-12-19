@@ -183,9 +183,6 @@ Im Falle der Vertragsbeendigung verbleiben die Arbeitsergebnisse unabhängig vom
 ***TITEL***  
 ***FIRMENNAME***
 
-**Anlage:**
-- Verpflichtung auf Datengeheimnis
-- Verpflichtung zum Schutz von digitalen Daten
 ---
 **Hinweise:**  
 **Arbeitgeber und Arbeitnehmer erhalten eine digitale Kopie des Vertrags mit beiden Unterschriften.**
