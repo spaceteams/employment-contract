@@ -61,7 +61,7 @@ This means, among other things:
 
 (8) The work equipment provided is to be used exclusively for company purposes. Transfer to third parties, in particular family members and roommates, is not permitted. We may demand the return of the work equipment at any time for justified reasons. This applies in particular in the event of replacement of the equipment, termination or release from work.
 
-## § 4 Remuneration  
+## § 4 Remuneration
 (1) For your work performance you will receive a monthly pay of ***X.XXX***,00 Euro gross, which will be transferred to the bank account you specify.
 
 (2) You will usually be able to access it by the third day of the following month at the latest.
@@ -145,7 +145,7 @@ In the event of termination of the contract, the work results shall remain in th
 
 (3) Before we transfer your data to a country where there is no data protection according to European standards, we will inform you about the risks in each individual case and ask for your explicit consent.
 
-## § 11 Obligation to store and surrender  
+## § 11 Obligation to store and surrender
 (1) You must properly store all business or operating documents, copies and data carriers made available to you. In particular, you must ensure that no third party can access them.
 
 (2) The same obligation exists with respect to all other property and objects owned or indirectly in the possession of the Employer, such as company vehicle, authorization cards, keys, cell phone, laptop or similar items.
@@ -156,12 +156,12 @@ In the event of termination of the contract, the work results shall remain in th
 
 (5) There is no right of retention in respect of the aforementioned documents.
 
-## § 12 Gifts and benefits   
+## § 12 Gifts and benefits
 (1) You may not accept gifts or benefits of any kind from suppliers, customers or other business partners.
 
 (2) If anyone attempts to provide you with any of the above services or otherwise influence your decision, you must notify us immediately and without being asked to do so.
 
-## § 13 Termination  
+## § 13 Termination
 (1) After the end of the trial period, a notice period of three months to the end of a calendar month applies for ordinary termination, both for you and for us. If the notice periods are extended for the company in accordance with Section §622 (2) of the German Civil Code (BGB) as a result of length of service, they are also extended to the same extent for the Employee.
 
 (2) The right to extraordinary termination without notice for good cause in accordance with Section §626 of the German Civil Code (BGB) remains unaffected by this.
@@ -184,7 +184,7 @@ In the event of termination of the contract, the work results shall remain in th
 
 (3) We, as the Employer, undertake for the period after termination of the employment relationship to include your name in all copies of the programme and the accompanying material used within the framework of the contractual use and/or not to remove them. This shall also apply in the event that the Company grants authorized use to third parties.
 
-## § 16 Exclusion clause  
+## § 16 Exclusion clause
 (1) You must assert all your claims arising from the employment relationship in writing or in text form within 3 months of the due date. Otherwise your claim will expire.
 
 (2) The time period shall commence as soon as the claim has arisen and you have become aware of the circumstances giving rise to the claim or should have become aware without incurring unreasonable effort. The same applies to us if we assert claims against you.
