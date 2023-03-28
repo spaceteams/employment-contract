@@ -90,7 +90,7 @@ Dies bedeutet unter anderem:
 
 (4) Auch wenn Dein Kind, das behindert ist oder das 12. Lebensjahr noch nicht vollendet hat, erkrankt und von Dir beaufsichtigt, betreut oder gepflegt werden muss, kannst Du einen Anspruch auf Freistellung von der Arbeit haben. In diesem Fall musst Du uns eine entsprechende ärztliche Bescheinigung vorlegen. Falls Dein Lohnfortzahlungsanspruch in diesem Fall entfällt, steht Dir in der Regel Kinderkrankengeld zu, das bei der Krankenkasse zu beantragen ist (§ 45 Sozialgesetzbuch V).
 
-## § 7 Nebentätigkeit  
+## § 7 Nebentätigkeit
 (1) Du verpflichtest Dich, eine andere entgeltliche oder unentgeltliche Tätigkeit/Beschäftigung nur mit vorheriger Zustimmung des Arbeitgebers aufzunehmen.
 
 (2) Die Zustimmung kann nur verweigert werden, wenn die Aufnahme der Nebentätigkeit betriebliche Interessen beeinträchtigt.
