@@ -27,7 +27,7 @@ Wir erwarten von Dir die Bereitschaft zur konstruktiven Zusammenarbeit auf der B
 - Unterstützung und Mitwirkung bei der Software-Entwicklung,
 - Coaching und Beratung von Kunden.
 
-(3) Die Probezeit dauert 6 Monate. Während dieser Zeit wirst Du eingearbeitet und bist Teil unseres Teams. Solltest Du während dieser Zeit merken, dass Dir Dein Arbeitsplatz nicht zusagt, oder wir merken, dass unsere Vorstellungen nicht erfüllt werden, so haben beide Seiten das Recht, das Arbeitsverhältnis gemäß § 622 Absatz 3 BGB unter Einhaltung einer zweiwöchigen Frist zum Ende eines Kalendermonats schriftlich zu kündigen.
+(3) Die Probezeit dauert 6 Monate. Während dieser Zeit wirst Du eingearbeitet und bist Teil unseres Teams. Solltest Du während dieser Zeit merken, dass Dir Dein Arbeitsplatz nicht zusagt, oder wir merken, dass unsere Vorstellungen nicht erfüllt werden, so haben beide Seiten das Recht, das Arbeitsverhältnis gemäß § 622 Absatz 3 BGB unter Einhaltung einer zweiwöchigen Frist schriftlich zu kündigen.
 
 (4) Sollte es notwendig sein, behalten wir uns im Rahmen des billigen Ermessens vor, Dir eine andere zumutbare Tätigkeit zuzuweisen, die Deinen Vorkenntnissen entspricht. An Deiner Vergütung ändert sich in dem Fall nichts.
 
@@ -36,7 +36,11 @@ Wir erwarten von Dir die Bereitschaft zur konstruktiven Zusammenarbeit auf der B
 
 (2) Die Verteilung der Arbeitszeit auf die Werktage und Beginn und Ende der täglichen Arbeitszeit und der Pausen richtet sich nach den jeweiligen Vorgaben des Arbeitgebers.
 
-(3) Du hast auf Anforderung ggf. auch Über- und Mehrarbeit, sowie Wochenend-, Sonn- und Feiertagsarbeit im gesetzlich zulässigen Rahmen zu leisten.
+(3) Du hast auf Anforderung ggf. auch Über- und Mehrarbeit, sowie in Ausnahmefällen Wochenend-, Sonn- und Feiertagsarbeit im gesetzlich zulässigen Rahmen zu leisten. 
+
+(4) Im Rahmen von Projekten, welche wir übernehmen, müssen wir gegebenenfalls gegenüber dem Kunden zumindest eine Erreichbarkeit per Telefon am Wochenende und möglicherweise rund um die Uhr gewährleisten. Du erklärst Dich bereit, Dich auf Anordnung durch uns außerhalb der regelmäßigen Arbeitszeit über Mobiltelefon erreichbar zu halten, um auf Abruf die Arbeit aufzunehmen (Rufbereitschaft). Während dieser Zeit kannst Du Dich an jedem beliebigen Ort Deiner Wahl aufhalten. Überschreitet die tatsächlich angeordnete Rufbereitschaftszeit 20 Stunden monatlich nicht, ist sie mit der Vergütung abgegolten. 
+
+(5) Deine während der Rufbereitschaft tatsächlich geleisteten Arbeitsstunden musst Du erfassen und uns mitteilen. Hast Du Deine wöchentliche Arbeitszeit dann schon erbracht, wird Dein Arbeitseinsatz als Überstunden bewertet.
 
 ## § 3 Arbeitsort
 (1) Der Firmensitz ist ***STADT***.
@@ -66,13 +70,20 @@ Dies bedeutet unter anderem:
 
 (2) Du wirst in der Regel spätestens am dritten Tag des Folgemonats darüber verfügen können.
 
-(3) Überstunden werden entweder innerhalb eines Zeitraumes von drei Monaten in Freizeit abgegolten oder vergütet; hierzu sprichst Du Dich mit Deinem Vorgesetzten ab.
+(3) Überstunden sowie Wochenend-, Sonn- und Feiertagsarbeit werden entweder innerhalb eines Zeitraumes von drei Monaten in Freizeit abgegolten oder vergütet; hierzu sprichst Du Dich mit Deinem Vorgesetzten ab.
 
 (4) Reisekosten aus Anlass von Dienstreisen werden in Höhe der steuerlich zulässigen Höchstbeträge gegen Nachweis erstattet.
 
 (5) Ein Rechtsanspruch auf die wiederholte oder dauerhafte Gewährung zusätzlicher Leistungen für die Zukunft entsteht auch nach mehrmaliger vorbehaltloser Zahlung nicht.
 
-## § 5 Urlaub
+## § 5 Freiwillige monatliche Sonderzahlung
+(1) Es wird eine freiwillige, monatliche Sonderzahlung in Höhe von 75,00 € zusätzlich zu Deinem Bruttogehalt vereinbart.
+
+(2) Auf die freiwillige monatliche Sonderzahlung besteht kein Rechtsanspruch, auch nicht bei wiederkehrender Gewährung.
+
+(3) Die freiwillige monatliche Sonderzahlung kann jederzeit, mit 1-monatiger schriftlicher Frist, eingestellt werden.
+
+## § 6 Urlaub
 (1) Du hast einen Anspruch auf Erholungsurlaub in Höhe von 30 Arbeitstagen im Kalenderjahr. Arbeitstage sind alle Tage, die am Arbeitsort weder Samstage noch Sonntage oder gesetzliche Feiertage sind.
 
 (2) Wir werden versuchen, Deinen Urlaubswünschen nach Möglichkeit zu entsprechen, müssen jedoch auch betriebliche Belange berücksichtigen. Für unsere Urlaubsplanung ist es erforderlich, dass Du uns Deine Urlaubswünsche frühzeitig mitteilst.
@@ -81,7 +92,7 @@ Dies bedeutet unter anderem:
 
 (4) In dem Jahr Deines Eintritts und des Austritts erhältst Du anteilig Urlaub.
 
-## § 6 Arbeitsverhinderung
+## § 7 Arbeitsverhinderung
 (1) Du hast dem Arbeitgeber jede Arbeitsverhinderung und ihre voraussichtliche Dauer unverzüglich nach Kenntnis telefonisch oder per E-Mail anzuzeigen, und zwar vor dem Zeitpunkt der erwarteten Arbeitsaufnahme. Die Gründe der Arbeitsverhinderung sind mitzuteilen, soweit dies datenschutzrechtlich vom Arbeitgeber verlangt werden kann.
 
 (2) Bist Du hierzu selbst nicht in der Lage, hast Du in gleicher Weise die Information des Arbeitgebers durch Dritte zu veranlassen.
@@ -90,12 +101,12 @@ Dies bedeutet unter anderem:
 
 (4) Auch wenn Dein Kind, das behindert ist oder das 12. Lebensjahr noch nicht vollendet hat, erkrankt und von Dir beaufsichtigt, betreut oder gepflegt werden muss, kannst Du einen Anspruch auf Freistellung von der Arbeit haben. In diesem Fall musst Du uns eine entsprechende ärztliche Bescheinigung vorlegen. Falls Dein Lohnfortzahlungsanspruch in diesem Fall entfällt, steht Dir in der Regel Kinderkrankengeld zu, das bei der Krankenkasse zu beantragen ist (§ 45 Sozialgesetzbuch V).
 
-## § 7 Nebentätigkeit
+## § 8 Nebentätigkeit
 (1) Du verpflichtest Dich, eine andere entgeltliche oder unentgeltliche Tätigkeit/Beschäftigung nur mit vorheriger Zustimmung des Arbeitgebers aufzunehmen.
 
 (2) Die Zustimmung kann nur verweigert werden, wenn die Aufnahme der Nebentätigkeit betriebliche Interessen beeinträchtigt.
 
-## § 8 Arbeitsergebnisse und Rechteübertragung
+## § 9 Arbeitsergebnisse und Rechteübertragung
 (1) **Arbeitsergebnisse**  
 Als Arbeitsergebnisse gelten sämtliche Ergebnisse, die Du nach entsprechender Weisung des Arbeitgebers entwickelst, erstellst oder erwirbst, und/oder die erforderlich oder förderlich waren und/oder sind, um Deine arbeitsvertraglichen Aufgaben zu erfüllen. Hast Du ein Ergebnis während der Arbeitszeit entwickelt, erstellt oder erworben, wird vermutet, dass es sich um ein Arbeitsergebnis handelt. Arbeitsergebnisse sind insbesondere Software, Datenbanken, Quellcodes, Dokumentationen,Verfahren, Konzepte, Gestaltungen, Skizzen, Entwürfe, Vorstudien, Ideen, Know-How, Präsentationen, Manuskripte, Informationsblätter, Berichte, Patente, Anleitungen, Bilder, Fotos, Fotonegative, Filme, Werbe- und Marketingmaterial, Marken, Logos, Wortschöpfungen, Konstruktions- oder Baupläne und Schaltpläne.
 
@@ -129,7 +140,7 @@ Die in dieser Ziffer geregelte Übertragung der Rechte an den Arbeitsergebnissen
 (7) **Vertragsbeendigung**  
 Im Falle der Vertragsbeendigung verbleiben die Arbeitsergebnisse unabhängig vom Beendigungstatbestand zur weiteren unbefristeten, ausschließlichen und inhaltlich unbeschränkten Nutzung und Verwertung in den Händen des Arbeitgebers. Ein Zugangs- und/oder Herausgaberecht bezüglich solcher Arbeitsergebnisse zugunsten des Mitarbeiters wird ausdrücklich ausgeschlossen. Dem Mitarbeiter steht kein Recht auf Zugang und/oder Aushändigung einer Autorenkopie zu.  
 
-## § 9 Geheimhaltung
+## § 10 Geheimhaltung
 (1) Du bist verpflichtet, alle betrieblichen Informationen streng geheim zu halten. Diese Informationen beinhalten alle geschäftlichen, betrieblichen und technischen Informationen und Unterlagen, auch die unserer Geschäftspartner.
 
 (2) Du bist natürlich auch verpflichtet, die gesetzlichen Bestimmungen zum Schutz personenbezogener Daten zu beachten und Dich entsprechend zu verhalten. Du wirst bei Aufnahme der Tätigkeit gemäß der gesetzlichen Regelung in § 53 Bundesdatenschutzgesetz durch besondere schriftliche Erklärung auf die Einhaltung der einschlägigen Datenschutzbestimmungen verpflichtet.
@@ -138,14 +149,14 @@ Im Falle der Vertragsbeendigung verbleiben die Arbeitsergebnisse unabhängig vom
 
 (4) Das Datengeheimnis besteht auch nach Beendigung des Arbeitsverhältnisses fort.
 
-## § 10 Zustimmung zur Nutzung, Verarbeitung und Speicherung personenbezogener Daten
+## § 11 Zustimmung zur Nutzung, Verarbeitung und Speicherung personenbezogener Daten
 (1) Mit Deiner Unterschrift unter diesen Vertrag stimmst Du der Speicherung und weiteren Verarbeitung Deiner personenbezogenen Daten zu, soweit dies im Rahmen unseres Geschäftsbetriebs erforderlich werden wird (§ 6 Abs. 1 Buchst. b DSGVO).
 
 (2) Zu den Daten, die wir weitergeben dürfen, gehören Name, geschäftliche Kontaktdaten, akademische Grade, Berufsbezeichnung, Geburtsjahr, Foto, Kenntnisse, Fähigkeiten, Erfahrungen, Auszeichnungen und Softskills, soweit diese für die konkrete geschäftliche Beziehung von Bedeutung sind.
 
 (3) Bevor wir Deine Daten in ein Land übermitteln, in dem kein Datenschutz nach europäischen Standards existiert, werden wir Dich in jedem Einzelfall über die Risiken informieren und Dich um Deine ausdrückliche Einwilligung bitten.
 
-## § 11 Aufbewahrungs- und Herausgabepflicht
+## § 12 Aufbewahrungs- und Herausgabepflicht
 (1) Alle Dir zur Verfügung gestellten Geschäfts- oder Betriebsunterlagen, Kopien, Dateiträger musst Du ordnungsgemäß aufbewahren. Insbesondere musst Du dafür sorgen, dass kein Dritter Einsicht nehmen kann.
 
 (2) Dieselbe Verpflichtung besteht hinsichtlich sämtlicher weiterer Sachen und Gegenstände, die im Eigentum oder mittelbaren Besitz des Arbeitgebers stehen, wie beispielsweise Firmenfahrzeug, Berechtigungskarten, Schlüssel, Mobiltelefon, Laptop oder Ähnliches.
@@ -156,12 +167,12 @@ Im Falle der Vertragsbeendigung verbleiben die Arbeitsergebnisse unabhängig vom
 
 (5) Ein Zurückbehaltungsrecht an den genannten Unterlagen gibt es nicht.
 
-## § 12 Geschenke und Vergünstigungen
+## § 13 Geschenke und Vergünstigungen
 (1) Du darfst weder Geschenke noch Vergünstigungen jeglicher Art von Lieferanten, Kunden oder sonstigen Geschäftspartnern annehmen.
 
 (2) Sollte jemand versuchen, Dir eine der o. g. Leistungen zukommen zu lassen oder auf andere Art und Weise Deine Entscheidung zu beeinflussen, musst Du uns das unverzüglich und unaufgefordert mitteilen.
 
-## § 13 Kündigung
+## § 14 Kündigung
 (1) Nach Ablauf der Probezeit gilt, sowohl für Dich als auch für uns, für die ordentliche Kündigung eine Kündigungsfrist von drei Monaten zum Ende eines Kalendermonats. Verlängern sich die Kündigungsfristen nach § 622 Abs. 2 BGB infolge Betriebszugehörigkeit für die Firma, verlängern sie sich im gleichen Umfang auch für den Mitarbeiter.
 
 (2) Das Recht zur außerordentlichen fristlosen Kündigung aus einem wichtigen Grund nach § 626 BGB bleibt davon unberührt.
@@ -170,28 +181,28 @@ Im Falle der Vertragsbeendigung verbleiben die Arbeitsergebnisse unabhängig vom
 
 (4) Besondere Kündigungsschutzvorschriften werden wir beachten.
 
-## § 14 Sonstige Beendigung des Arbeitsvertrags
+## § 15 Sonstige Beendigung des Arbeitsvertrags
 (1) Das Arbeitsverhältnis endet durch Aufhebungsvertrag.
 
 (2) Das Arbeitsverhältnis endet, ohne dass es einer Kündigung bedarf, mit Ablauf des Monats, in dem der Mitarbeiter die Voraussetzungen für den Bezug einer ungekürzten Rente wegen Alters aus der gesetzlichen Rentenversicherung erfüllt hat.
 
 (3) Das Arbeitsverhältnis endet ferner, ohne dass es einer Kündigung bedarf, mit Ablauf des Monats, in welchem dem Mitarbeiter ein Bescheid eines Rentenversicherungsträgers über die Gewährung einer unbefristeten Rente wegen vollständiger Erwerbsminderung zugestellt wird und jede weitere Beschäftigung des Mitarbeiters – auch zu geänderten Arbeitsbedingungen ausgeschlossen bzw. unzumutbar ist. Das Arbeitsverhältnis endet in diesem Fall frühestens zwei Wochen nach Zugang der schriftlichen Unterrichtung des Mitarbeiters über die Beendigung wegen der Bewilligung der Rente und der fehlenden Weiterbeschäftigungsmöglichkeit.
 
-## § 15 Besondere nachvertragliche Rechte und Pflichten
+## § 16 Besondere nachvertragliche Rechte und Pflichten
 (1) Du arbeitest im Rahmen der vertraglichen Arbeitsverpflichtungen einen Mitarbeiter oder eine Mitarbeiterin als Nachfolger bzw. Nachfolgerin ein. Besondere, hieraus entstehende Kosten werden nach Vereinbarung und Einzelnachweis erstattet.
 
 (2) Soweit Du in Besitz von Quellcodes, Lizenzschlüsseln oder Zugangsdaten zu einem zur Nutzung überlassenen Programm oder Lizenzen bist, übergibst Du diese rechtzeitig vor Beendigung des Arbeitsverhältnisses der Firma.
 
 (3) Wir, als Arbeitgeber, verpflichten uns für den Zeitraum nach Beendigung des Arbeitsverhältnisses, Deinen Namen in allen im Rahmen der vertraglichen Nutzung verwendeten Programmkopien und dem dazugehörigen Begleitmaterial anzuführen bzw. nicht zu entfernen. Dies gilt auch für den Fall der berechtigten Nutzungseinräumung durch die Firma an Dritte.
 
-## § 16 Ausschlussklausel
+## § 17 Ausschlussklausel
 (1) Alle Deine Ansprüche aus dem Arbeitsverhältnis musst Du innerhalb von 3 Monaten nach Fälligkeit schriftlich oder in Textform geltend machen. Andernfalls erlischt Dein Anspruch.
 
 (2) Der Fristablauf beginnt, sobald der Anspruch entstanden ist und Du von den Anspruch begründenden Umständen Kenntnis erlangt hast oder ohne unzumutbare Aufwendungen erlangen musstest. Gleiches gilt für uns, wenn wir Ansprüche gegen Dich geltend machen.
 
 (3) Nicht unter die vereinbarte Ausschlussfrist fallen Ansprüche, die durch vorsätzliche, strafbare Handlung oder unerlaubte Handlung entstanden sind, Ansprüche wegen Verletzung des Lebens, des Körpers oder der Gesundheit sowie Ansprüche, die aufgrund gesetzlicher Regelung nicht unter Ausschlussfristen fallen.
 
-## § 17 Folgen der Unwirksamkeit einzelner Vertragsbestimmungen
+## § 18 Folgen der Unwirksamkeit einzelner Vertragsbestimmungen
 (1) Sollten einzelne Bestimmungen dieses Vertrags ganz oder teilweise unwirksam sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
 
 (2) An die Stelle der unwirksamen oder undurchführbaren Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkungen der gesetzlichen und wirtschaftlichen Zielsetzung am nächsten kommt, die die Vertragsparteien mit der unwirksamen bzw. undurchführbaren Bestimmung verfolgt haben.
