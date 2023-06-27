@@ -78,7 +78,7 @@ This means, among other things:
 (5) A legal claim to the repeated or continuous granting of additional benefits for the future is not established even after repeated unconditional payment.
 
 ## § 5 Voluntary monthly special payment
-(1) A voluntary, monthly special payment of €75.00 in addition to your gross salary will be firmly agreed.
+(1) A voluntary, monthly special payment of €***XX***.00 in addition to your gross salary will be firmly agreed.
 
 (2) There is no legal entitlement to the voluntary monthly special payment, even if it is paid on a regular basis.
 
