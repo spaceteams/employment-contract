@@ -77,7 +77,7 @@ Dies bedeutet unter anderem:
 (5) Ein Rechtsanspruch auf die wiederholte oder dauerhafte Gewährung zusätzlicher Leistungen für die Zukunft entsteht auch nach mehrmaliger vorbehaltloser Zahlung nicht.
 
 ## § 5 Freiwillige monatliche Sonderzahlung
-(1) Es wird eine freiwillige, monatliche Sonderzahlung in Höhe von 75,00 € zusätzlich zu Deinem Bruttogehalt vereinbart.
+(1) Es wird eine freiwillige, monatliche Sonderzahlung in Höhe von ***XX***,00 € zusätzlich zu Deinem Bruttogehalt vereinbart.
 
 (2) Auf die freiwillige monatliche Sonderzahlung besteht kein Rechtsanspruch, auch nicht bei wiederkehrender Gewährung.
 
